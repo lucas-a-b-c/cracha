@@ -1,8 +1,8 @@
 const linksSocialMedia = {
   github: 'lucas-a-b-c',
   //youtube: 'channel/UCIxwdQqwRhXHQizFDnX0xiw',
-  facebook: 'lucasabc',
-  instagram: 'lucasabc'
+  facebook: 'lukasabc',
+  instagram: 'lucas_abc_'
   //twitter: 'lucasabc'
 }
 
